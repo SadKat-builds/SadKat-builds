@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="wallpaperswide com-call-of-duty-ghosts-2-wallpaper-1920x1080" src="https://github.com/user-attachments/assets/c8eef57c-ba76-4dd3-943c-d651a7d7f68b" />
-
 # Sadkat
 
 Founding engineer working across backend systems and applied AI. My work includes service architecture, API design, data processing, and context infrastructure for early-stage products, primarily using TypeScript.
